@@ -1,3 +1,3 @@
 # Charts
 
-Charts draw using https://www.draw.io/
+Charts drawn using https://www.draw.io/
